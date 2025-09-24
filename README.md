@@ -1,2 +1,3 @@
 # Prediction_market
-Data Science assignment, Term 2, ISB. 
+Data Science assignment, Term 2, ISB
+A basic prediction market static-website.
